@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1><center>Regiter as new comer</center></h1>
+    <h1><center>Regitegr as new comer</center></h1>
 </body>
 </html>
