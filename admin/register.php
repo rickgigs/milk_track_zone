@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1><center>Regitegr as new comer</center></h1>
-    <h2>Regitser</h2>
+    <h2>Regitserwws</h2>
 </body>
 </html>
