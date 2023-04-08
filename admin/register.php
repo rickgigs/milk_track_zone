@@ -11,5 +11,6 @@
     <h2>Regitserdfwws</h2>
     hwj
     <h4>ndkn</h4>
+    <marquee behavior="" direction="left">Update</marquee>
 </body>
 </html>
