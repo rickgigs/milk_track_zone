@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1><center>Regitegr as new comer</center></h1>
-    <h2>Regitserdfwws</h2>
+    <h2>Regitserdfwwfs</h2>
     hwj
     <h4>ndkn</h4>
     <marquee behavior="" direction="left">Updeate</marquee>
